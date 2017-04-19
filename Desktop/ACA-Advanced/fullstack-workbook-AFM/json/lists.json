@@ -1,0 +1,47 @@
+[
+  {
+    "_id": "576b1754cd8872e71c99a83f",
+    "name": "Hardware Store",
+    "__v": 0,
+    "items": [
+      {
+        "_id": "5761dc860c5074eb121f5801",
+        "text": "Buy hammer",
+        "__v": 0,
+        "list": "576b1754cd8872e71c99a83f",
+        "tags": [
+          {
+            "_id": "576b1cee3c04478b1d9c4b20",
+            "label": "home improvement",
+            "color": "orange",
+            "__v": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "_id": "2e71c99a83f576b1754cd887",
+    "name": "Grocery Store",
+    "__v": 0,
+    "items": [
+      {
+        "_id": "5761dc990c5074eb121f5802",
+        "text": "Eat pancakes",
+        "__v": 0,
+        "tags": [
+          {
+            "_id": "5761dd479d5761dc990c5",
+            "label": "food",
+            "color": "lightblue"
+          },
+          {
+            "_id": "9d5761dc990c55761dd47",
+            "label": "breakfast",
+            "color": "pink"
+          }
+        ]
+      }
+    ]
+  }
+]
